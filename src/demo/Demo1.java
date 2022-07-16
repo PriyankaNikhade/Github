@@ -9,6 +9,7 @@ System.out.println("123456");
 		System.out.println("Gm");
 	System.out.println("Bye");
 	System.out.println("Gn");
+		sop();
 	}
 
 }
